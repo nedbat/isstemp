@@ -1,16 +1,13 @@
-# Licensed under the Apache License: http://www.apache.org/licenses/LICENSE-2.0
-# For details: https://github.com/nedbat/coveragepy/blob/master/NOTICE.txt
-
 # https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository
 
 blank_issues_enabled: false
 contact_links:
-  - name: Frequently Asked Questions
-    url: https://coverage.readthedocs.io/en/latest/faq.html
-    about: Some common problems are described here.
-  - name: Testing in Python mailing list
-    url: http://lists.idyll.org/listinfo/testing-in-python
-    about: Ask questions about using coverage.py here.
-  - name: Tidelift security contact
-    url: https://tidelift.com/security
-    about: Please report security vulnerabilities here.
+  - name: Build-Test-Release backlog
+    url: https://github.com/openedx/build-test-release-wg/projects/1
+    about: Tickets for work on community releases
+  - name: Build-Test-Release discussions
+    url: https://discuss.openedx.org/c/working-groups/build-test-release/30
+    about: Discussions about creating Open edX community releases
+  - name: Ops discussion
+    url: https://discuss.openedx.org/c/devops/ops-help/27
+    about: General help with operating Open edX instances
